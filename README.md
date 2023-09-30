@@ -1,5 +1,5 @@
 # CS50P
-**My codes for** [**CS50’s Introduction to Programming with Python**]([https://cs50.harvard.edu/x/2023/](https://cs50.harvard.edu/python/2022/)https://cs50.harvard.edu/python/2022/) **course by Harvard**  \
+**My codes for [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/x/2023/](https://cs50.harvard.edu/python/2022/)https://cs50.harvard.edu/python/2022) course by Harvard**  \
 This is my first ever course and attempt at programming.
 
 ---
