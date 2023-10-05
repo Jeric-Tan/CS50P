@@ -1,7 +1,7 @@
 # CS50P
 **My codes for [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/x/2023/](https://cs50.harvard.edu/python/2022/)https://cs50.harvard.edu/python/2022) course by Harvard**  \
 This is my first ever course and attempt at programming.  
-[My Final Project](https://github.com/potat0o/CS50P/tree/637d367419597186a85069f99aa9db466c92c4bb/CS50P/project)
+[My Final Project](https://github.com/potat0o/CS50P/tree/f5fd2e9e2b4d9d82182f8a1b3c4eed065cc404a4/Problem%20Set/project)
 
 ---
 
